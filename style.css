@@ -1,0 +1,32 @@
+.row {
+  width: 1170px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+
+/* BLOCCO LEZIONI */
+.row,
+.left,
+.central,
+.right,
+.first,
+.second,
+.third {
+  text-align: center;
+}
+
+
+/* BLOCCO STEPS */
+
+
+/* BLOCCO PERCHE */
+
+/* COMMON */
+.container.grey {
+  background-color: #f9f9f9;
+}
+
+img {
+  height: 200px;
+}
