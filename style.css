@@ -1,32 +1,42 @@
-.row {
-  width: 1170px;
-  max-width: 100%;
-  margin: 0 auto;
-}
+/* Utilities */
 
-
-/* BLOCCO LEZIONI */
-.row,
-.left,
-.central,
-.right,
-.first,
-.second,
-.third {
+.text-center {
   text-align: center;
-}
-
-
-/* BLOCCO STEPS */
-
-
-/* BLOCCO PERCHE */
-
-/* COMMON */
-.container.grey {
-  background-color: #f9f9f9;
 }
 
 img {
   height: 200px;
+}
+
+.img-blue {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 15px;
+}
+
+.margin-30 {
+  margin-bottom: 50px;
+}
+
+/* BLOCCO LEZIONI */
+.title1 {
+  margin: 30px 0;
+}
+
+.lesson {
+  margin-bottom: 50px;
+}
+
+/* BLOCCO STEPS */
+.steps {
+  margin-bottom: 60px;
+}
+
+.title2 {
+  margin-bottom: 30px;
+}
+
+/* BLOCCO PERCHE */
+.container.grey {
+  background-color: #f9f9f9;
 }
